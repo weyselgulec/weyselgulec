@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @weyselgulec
 - 👀 I’m interested in Web development, C, C++, Xcode and Pyhton
-- 🌱 I’m currently learning ...Xcode and Pyhton
-- 💞️ I’m looking to collaborate on ...Xcode and Pyhton
 - 📫 How to reach me weyselgulec@gmail.com.
 
 <!---
